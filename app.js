@@ -8,7 +8,7 @@ const ytdl = require("ytdl-core");
 
 const CLEAR_MESSAGES = '!clear';
 
-const userID = '<@443166863996878878>'
+const userID = '<your username id>'
 
 const { RichEmbed } = require("discord.js");
 
@@ -367,7 +367,7 @@ function msToTime(ms){
 
 
 
-   client.login("Njk5MDA5NTA5MDQ1MzA1Mzc0.Xpahfg.t_X-SSR1Ww5--FBqSz5kY2KKgWM");
+   client.login("Tokenhere");
 
   
 
